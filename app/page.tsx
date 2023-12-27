@@ -24,7 +24,7 @@ export default function Home() {
       <section className='flex w-full flex-col-reverse items-center md:flex-row justify-around mt-16'>
 
         <div className='flex flex-col items-center gap-3  z-[10]'>
-          <h1 className='text-white text-3xl md:text-5xl font-medium m-5'>I'm</h1>
+          <h1 className='text-white text-3xl md:text-5xl font-medium m-5'>I am</h1>
           <section className="animation text-white text-3xl md:text-5xl ">
             <div className="first bg-[radial-gradient(ellipse_at_right,_var(--tw-gradient-stops))] from-red-400 via-stone-200 to-stone-400 bg-clip-text text-transparent font-bold text-center border-r-4 border-l-4">
               <div>Bilal Raza</div>

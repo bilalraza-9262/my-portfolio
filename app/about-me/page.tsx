@@ -16,7 +16,7 @@ const page = () => {
 						<div className='text-white flex flex-col gap-7 '>
 
 							<h2 className=' font-semibold border-zinc-400 underline text-center text-3xl md:text-5xl bg-gradient-to-t from-slate-100 via-purple-300 to-purple-800 bg-clip-text text-transparent font-serif'>Who I am?</h2>
-							<p className='text-sm md:text-lg  font-extralight'>Greetings! I'm Muhammad Bilal Raza, a resident of Karachi, Pakistan. My educational journey began at Darul Madina International System, where I successfully completed my matriculation. Currently, I am pursuing my intermediate studies at Government Superior College, alongside my exploration of the dynamic field of web development.
+							<p className='text-sm md:text-lg  font-extralight'>Greetings! I am Muhammad Bilal Raza, a resident of Karachi, Pakistan. My educational journey began at Darul Madina International System, where I successfully completed my matriculation. Currently, I am pursuing my intermediate studies at Government Superior College, alongside my exploration of the dynamic field of web development.
 							</p>
 							<p className='text-sm md:text-lg font-extralight'>
 								In addition to my secular education, I embarked on a religious education journey at the age of 12 when I delved into the study of the Holy Quran. Presently, I am actively engaged in a scholar course, further deepening my understanding of religious studies. This dual pursuit reflects my commitment to both secular and religious knowledge, showcasing a holistic approach to personal and intellectual development.

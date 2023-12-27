@@ -60,7 +60,7 @@ export function ProjectSlider({ card, options }: { card: CardContent[], options:
                             </div>
                             <div className="m-3">
                               <Link href={item.ref ? item.ref : ""}>
-                                View Project &gt;
+                                View Project {`&gt;`}
                               </Link>
                             </div>
                           </div>) : (
